@@ -5,7 +5,6 @@ Estas notas cubren los métodos básicos de la estadística descriptiva, inferen
 
 Enlace a actividades
 
-[Actividad 1](https://prye.readthedocs.io/es/latest/Capitulo_1/005_guia_1.html)
-
-
-[Video](https://www.youtube.com/watch?v=1-NxScaAtjE)
+[Actividad 1](https://prye.readthedocs.io/es/latest/Capitulo_1/005_guia_1.html) 
+Materiales:
+* [Video](https://www.youtube.com/watch?v=1-NxScaAtjE)
