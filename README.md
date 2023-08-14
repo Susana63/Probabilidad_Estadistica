@@ -11,3 +11,11 @@ Enlace a actividades
 * [Actividad 2](https://prye.readthedocs.io/es/latest/Capitulo_1/005_guia_1.html)
   * [Video](https://www.youtube.com/watch?v=1-NxScaAtjE)
   * [Archivo 2](https://prye.readthedocs.io/es/latest/Capitulo_1/005_guia_1.html)
+
+\begin{tabular}{|c|c|c|}
+\hline
+Columna 1 & Columna 2 & Columna 3 \\
+\hline
+Fila 1 & Fila 2 & Fila 3 \\
+\hline
+\end{tabular}
