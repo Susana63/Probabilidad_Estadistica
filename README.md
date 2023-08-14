@@ -7,6 +7,5 @@ Enlace a actividades
 
 [Actividad 1](https://prye.readthedocs.io/es/latest/Capitulo_1/005_guia_1.html)
 
-[Video de YouTube]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://prye.readthedocs.io/es/latest/Capitulo_1/005_guia_1.html#fig-poblacion-muestra-01)https://prye.readthedocs.io/es/latest/Capitulo_1/005_guia_1.html#fig-poblacion-muestra-01)
 
-gh
+[Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
