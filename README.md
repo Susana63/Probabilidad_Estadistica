@@ -97,9 +97,13 @@ Tarea 1
 
 Teniendo en cuenta las variables Ecivil, Guscar y Gusmus, elaborar: tablas de frecuencias, diagramas de torta, diagramas de barras y concluir en forma completa, haciendo uso de software (EXCEL, R, entre otros).
 
+
+
 1
 Mendenhall William, Sinchich Terry. Probabilida y Estadística para ingenierías y Ciencias. Cuarta edición. Prentice Hall.
 
 2
 Ibídem pag. 2
+
+[Video de YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
