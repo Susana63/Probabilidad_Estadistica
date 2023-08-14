@@ -76,3 +76,30 @@ Estudio de las variables categóricas
 
 Las variables categóricas, nos permiten elegir una de las categorías propuestas (estas encasillan la decisión y no permiten dar una opinión libre), por esta razón son muy sencillas de analizar y básicamente lo que se hace con ellas es: Tablas de frecuencias, diagramas de (barras, de torta y de anillo), cruce de variables y conclusiones. (los cruces de variables se verán, cuando estemos en distribuciones continuas, específicamente la Ji cuadrado de independencia. Ejercicio de clase. Teniendo en cuenta la variable Sexo, realizar: Tabla de frecuencias, diagrama de barras, diagrama de torta y concluir. (este ejercicio se puede realizar a mano sin uso de software, para practicar y saber todo el proceso, pero es opcional dependiendo de la metodología que emplee cada docente).
 
+donde:
+
+ frecuencia absoluta o conteo total de los datos por cada categoría
+
+ frecuencia absoluta acumulada
+
+ frecuencia relativa. Es importante tener en cuenta que: 
+ 
+ y 
+
+ frecuencia relativa acumulada
+
+Diagrama de barras para la variable sexo elaborada con EXCEL
+
+Nota
+Conclusión: Se entrevistaron 45 personas de las cuales 24 son hombres (la mayoría) y representan el 53 % de los datos; hay 21 mujeres que representan el 47 %.
+
+Tarea 1
+
+Teniendo en cuenta las variables Ecivil, Guscar y Gusmus, elaborar: tablas de frecuencias, diagramas de torta, diagramas de barras y concluir en forma completa, haciendo uso de software (EXCEL, R, entre otros).
+
+1
+Mendenhall William, Sinchich Terry. Probabilida y Estadística para ingenierías y Ciencias. Cuarta edición. Prentice Hall.
+
+2
+Ibídem pag. 2
+
